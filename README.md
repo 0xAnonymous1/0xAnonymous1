@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm passionate about technology, open-source, and 
 - 👀 **Interests:** Blockchain, AI, Cybersecurity, and Web Development.
 - 🌱 **Currently Learning:** Blockchain development, AI security, and advanced React.
 - 💞️ **Looking to Collaborate On:** Open-source projects, smart contracts, and AI-driven security tools.
-- 📫 **How to Reach Me:** Connect with me on [Twitter](https://twitter.com/0xAnonymous1) or via email at `maskedwolf211@gmail.com`.
+- 📫 **How to Reach Me:** Connect with me on [X](https://x.com/0xAnonymous1) or via email at `maskedwolf211@gmail.com`.
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun Fact:** I love exploring ethical hacking and decentralized applications!
 
@@ -38,6 +38,6 @@ Welcome to my GitHub profile! I'm passionate about technology, open-source, and 
 
 ## 🤝 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/0xAnonymous1)
+[![X](https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white)](https://x.com/0xAnonymous1)
 
 Thanks for stopping by! 😊🚀
