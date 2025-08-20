@@ -36,7 +36,7 @@ Mission: To code, to learn, to inspire ⚡
 
 🌐 Transmission Links
 <p align="center"> <a href="https://github.com/your-username"><img src="https://skillicons.dev/icons?i=github" height="40"/></a> <a href="https://linkedin.com/in/your-link"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a> <a href="https://twitter.com/your-handle"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a> </p>
-<p align="center"> <img src="https://i.imgur.com/kq5jDqO.gif" width="600"/> </p>
+<p align="center"> <img src="[https://i.imgur.com/kq5jDqO.gif](https://i.gifer.com/origin/44/44865f86e1b8b92fc4a81ec8a6c45f8d_w200.gif)" width="600"/> </p>
 ╔═══════════════════════════════════════════════╗
 ║   🛰 SYSTEM ONLINE. AWAITING NEXT MISSION...   ║
 ╚═══════════════════════════════════════════════╝
