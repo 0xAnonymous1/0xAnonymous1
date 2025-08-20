@@ -42,11 +42,5 @@ Welcome to my GitHub profile! I'm passionate about technology, open-source, and 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile/)
 [![X](https://img.shields.io/badge/-X-000000?style=flat&logo=x&logoColor=white)](https://x.com/0xAnonymous1)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/yourprofile)
-📡 Signal Feed
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=vision-friendly-dark&hide_border=true" height="160px"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=vision-friendly-dark&hide_border=true" height="160px"/> </p>
-
-
-🌐 Transmission Links
-<p align="center"> <a href="https://github.com/your-username"><img src="https://skillicons.dev/icons?i=github" height="40"/></a> <a href="https://linkedin.com/in/your-link"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a> <a href="https://twitter.com/your-handle"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a> </p>
 
 🛸 System online. Awaiting next mission...
