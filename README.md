@@ -22,3 +22,13 @@
 ║  Database   | MySQL, MongoDB     ║
 ║  Languages  | JavaScript, Python ║
 ╚═════════════════════════════╝
+
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=blue_navy&hide_border=true" height="160px"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=blue_navy&hide_border=true" height="160px"/> </p>
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=blue_navy&hide_border=true" height="160px"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=blue_navy&hide_border=true" height="160px"/> </p>
+
+⚔️ Motto
+"In a world full of algorithms,
+     be the source code of change."
+
