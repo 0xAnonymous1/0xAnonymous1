@@ -1,34 +1,31 @@
-# 👾 DEVELOPER
+Hi there 👋, I'm Your Name
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=500&color=00C8FF&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Cybersecurity+Learner;AI+%7C+Blockchain+%7C+Future+Tech;Welcome+to+My+Cyber+Hub+🚀" />
-</p>
+🌟 Passionate about Web Development, AI, and Technology
+💻 Currently learning Python, React, and Blockchain Development
+🎯 Goal: Build projects that inspire and help others
 
----
+🚀 About Me
 
-## 🌌 About Me
-- 💻 Full-Stack Developer  
-- 🛰 Exploring **AI • Cybersecurity • Blockchain**  
-- 🎯 Mission: *Build futuristic tech & inspire youth*  
-- 🌍 Based in **Gilgit-Baltistan, Pakistan**  
+🔭 I’m currently working on: Web Development & Databases
 
----
+🌱 I’m learning: Python | React | Blockchain | Cybersecurity
 
-## ⚡ Tech Stack
-```ascii
-╔═════════════════════════════╗
-║  Frontend   | React ⚛, Tailwind  ║
-║  Backend    | Node.js, Express   ║
-║  Database   | MySQL, MongoDB     ║
-║  Languages  | JavaScript, Python ║
-╚═════════════════════════════╝
+🎓 I’m a student passionate about tech research & open-source
 
+🎮 Fun fact: I’m planning to start a gaming & tech YouTube channel
+
+✨ Motto: Encourage youth to become successful in life
+
+🛠️ Languages & Tools
+<p align="left"> <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,git,github,vscode,mysql" /> </p>
 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=blue_navy&hide_border=true" height="160px"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=blue_navy&hide_border=true" height="160px"/> </p>
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=blue_navy&hide_border=true" height="160px"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=blue_navy&hide_border=true" height="160px"/> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" height="160px"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" height="160px"/> </p>
+🌐 Connect With Me
 
-⚔️ Motto
-"In a world full of algorithms,
-     be the source code of change."
+GitHub: @your-username
 
+LinkedIn: Your Name
+
+Twitter/X: @your-handle
+
+🔥 “Code. Learn. Inspire.”
